@@ -18,6 +18,7 @@ dataSources:
       entities:
         - Approval
         - Transfer
+        - TokenBalance
       abis:
         - name: SimpleToken
           file: ./abis/SimpleToken.json
